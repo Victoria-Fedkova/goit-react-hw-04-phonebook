@@ -1,4 +1,4 @@
-import { useState, useDebugValue, useMemo, useEffect } from 'react';
+import { useState, useMemo, useEffect } from 'react';
 import shortid from 'shortid';
 
 import ContactForm from './ContactForm';
